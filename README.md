@@ -55,13 +55,6 @@
 
 ---
 
-## 🚀 Projects
-🔹 AI Image Classification System  
-🔹 Animal Detection using Computer Vision  
-🔹 Image Processing Toolkit  
-
----
-
 ## 📈 Currently Learning
 - Deep Learning  
 - Advanced Computer Vision  
